@@ -8,8 +8,7 @@ body {
     font-size: 14px;
     color:white;
     height: 100vh;
-    margin-left: 1rem;
-    padding-top: 6rem;
+    padding-top: 3rem;
 }
 .page-title {
     font-size: 1.3rem;
@@ -60,12 +59,8 @@ h3 {
 }
 
 /*Carousel*/
-/*#carousel {
-    padding-top: 20%;
-}*/
 .c-item {
     position: relative;
-    display: flex;
     max-height: 100%;
     padding: 0.5rem;
     background-color: #11ED73;  
@@ -280,7 +275,6 @@ h3 {
         font-size: 1.2rem;
     }
     .a-item {
-        font-size: 1.4rem;
         padding: 0.8rem;
     }
     .f-img {
@@ -316,7 +310,7 @@ h3 {
         font-size: 1.4rem;
     }
     .a-item {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         padding: 1rem;
     }
     .f-img {
@@ -355,7 +349,9 @@ h3 {
         font-size: 1.7rem;
     }
     .a-item {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
+        padding: 1.2rem;
+
     }
     .f-img {
         height: 3.3rem;
