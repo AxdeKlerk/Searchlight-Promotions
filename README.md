@@ -235,7 +235,7 @@ The following bugs were identified and resolved (in no particular order):
 
 **Note Bene:** There were a lot more bugs with each line of code written, but the list was too extensive to include in this readme, therefore, a handful of them have been submitted above as an indication of the vastness and scope of the issues faced from start to finish.
 
-## 8. Testing and Deployment
+## 8. Testing
 Deployment was done early following lesson in a Code Institute Software Development course that stated the importance of early deployment to get a sense of what the website looks like as you develop the code. At the time of writing there had been 225 deployments.
 
 As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two separate methods were also used for testing purposes: informal and formal testing.
@@ -271,14 +271,57 @@ After further compressing the jpg img for the first carousel img corrected this 
 
 ![final lighthouse report](doc/images/second-lh-results-desktop.png)
 
-This website was built using html 5, css 3 and BootStrap 5.33. To contribute to make changes:
-  1. Clone the repository
-  2. Make your changes locally
-  3. Test your changes
-  4. Commit and push to the main branch
-  5. GitHub Pages will automatically update the live site
+## 9. Deployment
 
-## 9. Future Features
+The live version of this project is available at: [Searchlight Promotions](https://axdeklerk.github.io/Searchlight-Promotions/).
+
+### Deployment on GitHub Pages from VS Code
+
+#### 1. Deploying the Project
+   
+   Ensure the project is linked to a GitHub repository. To enable GitHub Pages, navigate to your repository on GitHub and click on **Settings** and scroll down to **Pages**. Under **Source**, choose *main* (or the branch you want to deploy) and click **Save**. GitHub Pages will process the deployment within a few minutes and the live link will appear in the **GitHub Pages** section.
+
+#### 2. Updating the Deployment
+   
+   After making changes to your code **Commit** and **Push** the updates to the repository via your **source control** pannel. GitHub Pages will automatically redeploy with the latest version.
+
+#### 3. Cloning the Project Locally
+
+To work on the project locally, follow these steps using your preferred code editor:
+
+  1. Open the GitHub repository and click on the green **Code** button.
+
+  2. Click copy to select this URL: https://github.com/axdeklerk/Searchlight-Promotions.git. 
+
+  3. Select a local folder where you want to store the project.
+
+  4. Open the project in your preferred editor (VS Code, for example).
+
+  **Note: Make sure that Git is installed on your system and authenticate with your GitHub account.**
+
+  #### 4. Forking the Repository
+
+  If you want to contribute or modify the project without affecting the original repository:
+
+  1. Go to the project repository on GitHub.
+
+  2. Click the **Fork** button (top-right corner).
+
+  3. Clone your forked repository (follow the cloning steps above).
+
+  4. Make changes and push them to your fork.
+
+  5. Submit a pull request if you want to contribute back to the original project.
+
+  #### 5. Troubleshooting
+
+  1. If the changes do not appear, clear your browsing cache or force a refresh by holding down the ctrl + shift + R keys.
+
+  2. If GitHub Pages is not updating, chesk the *Settings* and **Pages** for deployment status and errors.
+
+  3. If you are having issues with local deployment, make sure that Git is properly installed and configured in your preferred code editor.
+
+## 10. Future Features
 When I sent the finalised site to the client it was enthusiastically received and much discussion was had about what else could be implemented in the very near future and before its official launch.
 The following list of items will be used for the final product:
  1. Unique domain - for distribution and marketing purposes
@@ -289,14 +332,14 @@ For a future iteration:
  
  4. A page solely for merchandise - with images and prices for different items and links to a payment method (yet to be discussed and once I have learnt how to implement it)
 
-## 10. Conclusion
+## 11. Conclusion
 It is with great excitement that after spending more time than I should have building this website that I have gained my first client. Searchlight Promotions have asked me to maintain the website by keeping it up-to-date and developing it with the future features as detailed above.
 
 As mentioned above, this has been an exceptional learning curve but an incredibly enjoyable one. I am excited by the future and thank the Code Institute for providing me this opportunity to change the course of my ship towards riches and treasures beyond any previous imaginations, albeit through predicted turbulent waters. As somebody once said: 
 
 "Still waters never a good sailor made" (unknown source).
 
-## 11. Credits
+## 12. Credits
 This project could not have been possible without the support of the following people:
 
 + Julia Brown  - my loving partner who took over the reins at home and kept me fed and watered throughout,
