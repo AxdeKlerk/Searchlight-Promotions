@@ -1,0 +1,1787 @@
+[33mcommit 5abb1eb0e65faf37d91736c0ab4ebd2d71427ab7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Mon Mar 17 07:01:44 2025 +0000
+
+    moved resubmission imgs to main imgs branch and out of events and corrected the path in the readme.md file
+
+[33mcommit ba0f79da04b83b994d81ee6044db810cb7535c84[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Mon Mar 17 06:49:21 2025 +0000
+
+    fix: target _ blanks to we got tickets <a> to open in seperate window
+
+[33mcommit 48d2ec695c7ba316028128eab478875ed31fe0a6[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Mon Mar 17 06:43:26 2025 +0000
+
+    Fix errors from html valiadation report and added final resubmission validation img
+
+[33mcommit cd8ae2acd72c67193ab5c15aceb5d989befc63fb[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Mon Mar 17 06:28:35 2025 +0000
+
+    fix: changed roxoff poster in carousel
+
+[33mcommit 9e1650ccf7cd30fac46ec4ad87e9496ae3376e07[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Sun Mar 16 13:02:07 2025 +0000
+
+    feat: added 4 more events to correct event setting in responsiveness
+
+[33mcommit 70f013c8888b96092e5212fd5e8fcff23a3de32b[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Sun Mar 16 12:55:20 2025 +0000
+
+    fix: carousel was not sliding. removed the display: block from css to fix
+
+[33mcommit 7545b196e4d4f4a9b35ce2fc7ce281a0d919590c[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Sun Mar 16 12:04:38 2025 +0000
+
+    fix: styled header and nav across all media queries
+
+[33mcommit 444f743cb63a6b9af5ca31420b289e64b222f62b[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Sun Mar 16 11:57:02 2025 +0000
+
+    fix: header rows to both align centered, added margin top, changed body top padding to rem from %, added zero margin and padding to header row.
+
+[33mcommit 8981cc02fa9dd464c1c5c1ad4f98cba6bb99db11[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Sun Mar 16 10:26:35 2025 +0000
+
+    feat: added deployment section to README.md
+
+[33mcommit 4b3a51e0e7ab23ffcc2a0b71087c4ed82142fdeb[m
+Author: GitHub AxdeKlerk <axdeklerk@gmail.com>
+Date:   Fri Mar 14 07:25:25 2025 +0000
+
+    Added nav bar to header and styled for 320px wide
+    
+    Fixed media query for 1400px and above so as not to override the 1200px screen
+    
+    Corrected syntax errors for body in media queries
+
+[33mcommit e86a0b3fe11baa50c93a9e02f6f7a4975deac211[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:57:00 2024 +0000
+
+    chore: removed placemaker in readme
+
+[33mcommit fdbd9e6150e903d8eae1d9e6e8e5bd59cb9d0031[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:54:32 2024 +0000
+
+    chore: grammar
+
+[33mcommit f7ee210b3e8b44c51509a7ed1f18d7425da3107f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:47:05 2024 +0000
+
+    chore: spelling
+
+[33mcommit 765316872148755ec1b2e21cd3182bb3dde7819e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:45:26 2024 +0000
+
+    chore: grammar check
+
+[33mcommit b4e871c999b718b494e28b0cc1c8a6b7c0851151[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:40:30 2024 +0000
+
+    chore: spelling check
+
+[33mcommit 3a1f7ce4b5cef5abd48a273e9c1397c828d094cb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:36:21 2024 +0000
+
+    chore: added versions to html, css and BS mentions in readme
+
+[33mcommit 7ba1a6a5d27d800babc93c9d0e8da92755fe38b9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 20:14:37 2024 +0000
+
+    chore: spelling mistakes in readme
+
+[33mcommit 946017f279fbdb1f88bfe85ed6acdf39d9766ea8[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 19:08:24 2024 +0000
+
+    feat: added thank yous to friends in readme
+
+[33mcommit cf2be688c02f98486836d12910f0909ae9573d42[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 18:54:07 2024 +0000
+
+    feat: added text to both the bugs and testing sections
+
+[33mcommit 26f0ffc0cf03cb604d8c683e7e1343bf7845b6df[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 18:38:04 2024 +0000
+
+    chore: corrected spacing between list items in future features section
+
+[33mcommit 9dc88e3e6339bcc751c6b76492041569a682a607[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 18:09:28 2024 +0000
+
+    fix: positioning of cta btns in readme
+
+[33mcommit 148c84807ace318745eafbad76ad54c075851d8f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 18:03:59 2024 +0000
+
+    chore: corrected file name of logo in readme
+
+[33mcommit 11dda7df7993897ce68f9ab0398013f8973e5d89[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 18:01:48 2024 +0000
+
+    chore: moved sections around for story telling and renumbered lists
+
+[33mcommit 18facba97d5b886203f1f1155e0cd77e003e3812[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 17:42:14 2024 +0000
+
+    fix: added v2 am I responsive img and changed it in readme
+
+[33mcommit 2fa2fc65110a61bebc7743f3d802b5dfbc361872[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 17:40:17 2024 +0000
+
+    feat: chaanged page title size for xxs screens in media queries
+
+[33mcommit 4bab0cb0bd02abde450360d3e83a8f79ffe1da5c[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 17:34:18 2024 +0000
+
+    chore: corrected media query commets numbering
+
+[33mcommit f67bc3dc9a5b9cfc36f5bd13cce83ded2adecbf4[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 17:32:06 2024 +0000
+
+    feat: added comment to css media query
+
+[33mcommit 46df637969fe1ce92e6850745ba32da2614f893b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 17:15:15 2024 +0000
+
+    fix: renamed logo img
+
+[33mcommit f048513e98c22e0f983104f3bd9572c64586613e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:47:41 2024 +0000
+
+    fix: increased size of text in xxs media query
+
+[33mcommit 56a5653c64adc36e0d38caa316eb2b2fd16ca64d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:45:22 2024 +0000
+
+    feat: added an additional xxs media query to test responsiveness
+
+[33mcommit 434a1ea957e664f80b15ff3d9174c42138565a91[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:39:59 2024 +0000
+
+    fix: changed sizing in extra small media query to test
+
+[33mcommit d42c7e252974c94c32813c5abe6353f00aec7624[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:23:04 2024 +0000
+
+    feat: added 404 error message img to docs and readme
+
+[33mcommit 8c87f57219f2489d898e5a2f7c862e5af3334d33[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:17:56 2024 +0000
+
+    fix: closing a tag
+
+[33mcommit 0c457b04b029afbbbb7a5842a4dc5a980ae8641f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:08:26 2024 +0000
+
+    fix: added a tag for href to make it work in 404 message
+
+[33mcommit 310e25d78c841afec14c5737c03547a49c596c46[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 16:05:55 2024 +0000
+
+    fix: broken link back to working
+
+[33mcommit 93a6f077290bb9d09cf59e054c086908c980fce9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 15:49:09 2024 +0000
+
+    test: broke another link to test 404 error message
+
+[33mcommit e6a1415a9e6e09568099c05288212c6b2cfa5a1c[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 15:46:49 2024 +0000
+
+    test: broke a link to test 404 error message
+
+[33mcommit 7e901bf9bacef503c479dab44e885183de1a5375[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 15:33:42 2024 +0000
+
+    feat: added extra small media query to fix font size of header and footer logo
+
+[33mcommit 54733342eaa256f9c0d6cdee296f9aa6c5b10d31[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 15:23:35 2024 +0000
+
+    feat: added href to logo in 404 error message for navigation purposes and added text for how-to
+
+[33mcommit 0abc3cb36fa2cd4dabc985c48d164bc343004b8f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 13 15:21:04 2024 +0000
+
+    fix: changed divs to sections including footer
+
+[33mcommit 07515b88e6020a998963a6bbda1f6b1057d9e196[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:38:22 2024 +0000
+
+    feat: added devlopment contribution instructions
+
+[33mcommit 1e8153af9516db754c184276a1325a6e0c7d418e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:16:15 2024 +0000
+
+    chore: spelling
+
+[33mcommit c513e6d297cffa3ebcfa3143f3489392e1b24c35[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:13:50 2024 +0000
+
+    fix: removed attempt to center text
+
+[33mcommit 72a83ad4d7343de6307cdab7630bf24ef4008e62[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:13:00 2024 +0000
+
+    feat: attempt to align text center
+
+[33mcommit 9ec2e505f2a31340515c78be254b857a94386cec[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:08:35 2024 +0000
+
+    feat: added to conclusion
+
+[33mcommit 5b83eee0f62876c7637960919cecf84cac753417[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 21:03:49 2024 +0000
+
+    Feat: added conclusion section to readme
+
+[33mcommit 76d041ac26b0587cc647d1edc3af18334f5dc998[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:59:07 2024 +0000
+
+    feat: added repsonsive img under title section of readme
+
+[33mcommit 25156f694a90232067fb85fb7788f24cf71906b2[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:55:31 2024 +0000
+
+    feat: added text to logo section
+
+[33mcommit 9eb6c5076443223da626c8520ff4a812efc91201[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:53:11 2024 +0000
+
+    feat: added text to logo section
+
+[33mcommit ab9ae2c1a38d6eb0bb117bbd517b2ff496f59476[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:51:21 2024 +0000
+
+    fix: bug in logo
+
+[33mcommit 2431c5a8d4c28a59830d72b9c7cb763459d8e01d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:44:04 2024 +0000
+
+    fix: change header logo
+
+[33mcommit 5f44e1789f974bb53ab4b1b7a246c146ca9b2822[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:41:56 2024 +0000
+
+    feat: added differnet logos to readme
+
+[33mcommit 7074860eacf59aa730fe49507880038b78b312ed[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:38:30 2024 +0000
+
+    fix: moved page title img
+
+[33mcommit 37d1671bb206569ae4c1bae217b487d3b1be9101[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:37:14 2024 +0000
+
+    feat: added content for testing and deployment section of readme
+
+[33mcommit 21a26fbb9e66a394b9020eec3c71a1afa3562f31[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:15:54 2024 +0000
+
+    Feat: added contact form img and page tite example img to readme
+
+[33mcommit 859864dbab44bf8d4de7ab8c3ebff7809d92003d[m
+Merge: 6f63f0c 29cd4ed
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:08:34 2024 +0000
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+[33mcommit 6f63f0cc9a428699478955da9bf16004daf21787[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 20:08:24 2024 +0000
+
+    chore: corrected error message comment in html file
+
+[33mcommit 29cd4ed9772c9777cd8a35c3164de5a7c5c38a95[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:51:53 2024 +0000
+
+    Update README.md
+    
+    added content to bugs section
+
+[33mcommit 56d59103ac55083ac9b25ee0467d16e633d19f72[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:43:30 2024 +0000
+
+    Update README.md
+    
+    added footer img and re-ordered the footer and social media sections
+
+[33mcommit 737b87f396c9798517fcc99db86e5e74e6169c1f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:41:47 2024 +0000
+
+    feat: added footer img
+
+[33mcommit 262465c7ed333eca37fe51a5f3258eec1cec1ce8[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:41:07 2024 +0000
+
+    Update README.md
+    
+    added thank you message img
+
+[33mcommit e8ec25354519ad9d7b5d8185fb2eaa7c3ab97bdd[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:39:32 2024 +0000
+
+    feat: added thank you message img
+
+[33mcommit df62d45031a30b0ff4fbe623703111fce11e20cb[m
+Merge: 880f7a2 91a84e1
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:32:56 2024 +0000
+
+    Merge remote-tracking branch 'origin/HEAD'
+
+[33mcommit 91a84e1f9d9c654c442d2d877f8a0339095a8e14[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:31:21 2024 +0000
+
+    Update README.md
+    
+    added bugs section to readme with image
+
+[33mcommit 880f7a2269bf0af5bfcdd9133bd5b4f859c1f644[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:25:48 2024 +0000
+
+    Feat: added example of branch diversion for bugs section in readme
+
+[33mcommit bfc406139e1d78708051a14fe7dcdf7527bd5ff1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:22:20 2024 +0000
+
+    Update README.md
+    
+    added content to the social media section
+
+[33mcommit f3ade67d8d0af8652c23ae9e60dff7fd6222c243[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:16:15 2024 +0000
+
+    Update README.md
+    
+    moved cta btns section up and before carousel section
+
+[33mcommit a407b4fccb1f71e98ace3676bef6f27412a1ad2c[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:12:25 2024 +0000
+
+    Update README.md
+    
+    edited text and combined text from about sections and renumbered  headings accordingly
+
+[33mcommit 956a4231504cb2eed0f189760cca2a4db640a2ae[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:04:54 2024 +0000
+
+    Update README.md
+    
+    added colours to typography section
+
+[33mcommit 0ebd1feaf129184778f1edcdd5616722f5f12630[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 17:02:22 2024 +0000
+
+    Update README.md
+    
+    added img under colour scheme and added coolors.co to credits
+
+[33mcommit 8f40b42e38914be3a801ee138e99c3d0dccaeff6[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:55:59 2024 +0000
+
+    feat: added original light on the wall img to docs file
+
+[33mcommit bad4297b89aaa5d5f395c14f79cb3416be11d927[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:55:05 2024 +0000
+
+    Update README.md
+    
+    added colour scheme text
+
+[33mcommit 9db5b254f572bdb11031db7f7691d33d0ff28ddf[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:46:26 2024 +0000
+
+    Update README.md
+    
+    added colour scheme title to features and renumbered headings
+
+[33mcommit 9a5f63636e6249749f43f7edd0e30842aa18c9ba[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:42:39 2024 +0000
+
+    Update README.md
+    
+    added 404 error page title, future features and credits titles with corresponding content
+
+[33mcommit 68489cc1d7e8da76ce08c1dd86b341da883edcd1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:28:21 2024 +0000
+
+    Update README.md
+    
+    fixed numbering and imgs for the cta section
+
+[33mcommit 4f1d20d196d6882637ff5d86ff6c9b2d50dd8400[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:17:03 2024 +0000
+
+    feat: add cta-btn imgs to doc file
+
+[33mcommit 68799dea8180c760e7c01b0e5d68adc24d16d372[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 16:09:05 2024 +0000
+
+    Update README.md
+    
+    added credit section
+
+[33mcommit a4d60724996a7ac20e5bb9329590183502430db7[m
+Merge: c8ef66e 938dacd
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 15:43:25 2024 +0000
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit c8ef66e4b6bc7f11842d2f7d529d77a0aaeb047a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 15:34:05 2024 +0000
+
+    fix: changed first carousel img to a compressed version
+
+[33mcommit 938dacd529d2fcaf7a44c5a4c8f45e6e1876520e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 15:32:47 2024 +0000
+
+    Update README.md
+    
+    commit to main branch
+
+[33mcommit 474445e8d2a0e942d20c93563a696999b51a6b66[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 15:31:05 2024 +0000
+
+    feat: add imgs for readme and changed first carousel img to a compressed version
+
+[33mcommit 0730cef6993b5632bf5cefccaa53d86ee8eb0861[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:35:34 2024 +0000
+
+    Update README.md
+    
+    added text to about
+
+[33mcommit 308f1dbef478ae4f44b37e5eb4f6ef1c97ed2b63[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:34:09 2024 +0000
+
+    Update README.md
+    
+    added events cards
+
+[33mcommit 5f7f3c39ace501f3ad91a437a8d1148f54ed020e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:29:01 2024 +0000
+
+    Update README.md
+    
+    added about img
+
+[33mcommit c2baf883ce4fd95af5496bb783d89688d82bb194[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:27:26 2024 +0000
+
+    Update README.md
+    
+    added text to about section
+
+[33mcommit e3dbd9dd3f444cedece631823b45fc7dbe578834[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:12:54 2024 +0000
+
+    Update README.md
+    
+    added further text to carousel section
+
+[33mcommit 8c4f461da6119c3c982ee4dd1c2a019361095c4a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:11:32 2024 +0000
+
+    feat: added and changed imgs to docs folder
+
+[33mcommit c5c7467bc73cc7c617e1d14613706901c2509451[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:10:43 2024 +0000
+
+    Update README.md
+    
+    re-aligned headings
+
+[33mcommit 2d51075c1b8204d1556046e7a8b98ccb5c4bdf28[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 13:02:51 2024 +0000
+
+    Update README.md
+    
+    corrected numbering and headings
+
+[33mcommit 1200dbe827c044ae9681e1aeef0ce44f9e4c5b92[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 12:58:17 2024 +0000
+
+    Update README.md
+    
+    added carousel imgs
+
+[33mcommit ac3ee8b9fc06b71d275b0b23e2c74feeef3c850e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 12:47:08 2024 +0000
+
+    Update README.md
+    
+    added features and styled the lists
+
+[33mcommit 7dc221f54d34a5cf2fcd115af7cfe3ae67e15998[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 12:30:14 2024 +0000
+
+    Update README.md
+    
+    added wire frame text
+
+[33mcommit fd96485a2dc8f2fe094e915f9072acbd75e8587d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 12:27:16 2024 +0000
+
+    Update README.md
+    
+    Added initial content from text file
+
+[33mcommit c34e05294596f72fc21f155c5733bbd326368c56[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 11:52:10 2024 +0000
+
+    feat: added doc-img folder and added snips
+
+[33mcommit 09b7d72b3662be995ce94715e35d69ff19ab9872[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 11 11:41:21 2024 +0000
+
+    feat: added full width logo img
+
+[33mcommit 744dd624cb050873544675167a24d5719ac7ad6a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 9 19:41:40 2024 +0000
+
+    fix: deleted heading
+
+[33mcommit ed6bc768f7c3e353812490b444dfdd79d1d0b66d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 9 19:41:05 2024 +0000
+
+    feat: added heading for test purposes
+
+[33mcommit ecd78d683981487861873205a43486a7f47900fb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 9 19:39:43 2024 +0000
+
+    chore: deleted previous write-up
+
+[33mcommit 74436af43d312c2e5e0f74dcbefbf1f7b756dc41[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:38:50 2024 +0000
+
+    feat: capitalised event titles
+
+[33mcommit a6f978a0315ae11aef50ca4e3ba1abc0ab6c7ea1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:36:43 2024 +0000
+
+    fix: aligned events items to end
+
+[33mcommit 6c5a3f222888f584c518199eac69815c8635b7ba[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:34:53 2024 +0000
+
+    chore: cleaned media query syntax
+
+[33mcommit 91ccb175344c9b053d396451e7b7b1b229a5ab36[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:30:50 2024 +0000
+
+    fix: changed about caption to p
+
+[33mcommit 66f546751aa54e560c06b39e102b697d82b5e0a0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:12:08 2024 +0000
+
+    feat: added aria labels
+
+[33mcommit 88ac03d5b32886989016a18886d465f9ea5fbd58[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:03:22 2024 +0000
+
+    feat: resized h3
+
+[33mcommit ef9e7554bf2085e26a23c0f4d9f82ee097556bd1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 22:00:56 2024 +0000
+
+    fix: renamed foot logo id
+
+[33mcommit 48846acf60871b66a76756c4bb6c29cd99dd59a3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 21:44:29 2024 +0000
+
+    fix: change font size for page title
+
+[33mcommit 92d5613ffaf25a071d9fdc23a3eee7a76de19961[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 20:30:27 2024 +0000
+
+    fix: heading styles
+
+[33mcommit 9350825781a111ad8d0a927e889eb8a4ac93f7bc[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 20:20:30 2024 +0000
+
+    fix: changed heading numbers
+
+[33mcommit 00e930a8c4f409b0e37f848f906257ed0ea47bf9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 18:30:59 2024 +0000
+
+    feat: added margin to top of header
+
+[33mcommit 8afc0522433cf2e2d626a4ffa3fcf8ad2e44bc97[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 18:22:50 2024 +0000
+
+    fix: header syntax
+
+[33mcommit ed84284ff31bdaa34f21634cab67a83d66019113[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 18:07:57 2024 +0000
+
+    fix: removed erronous aria attributes
+
+[33mcommit 0924bef2c710a0896d4f6833b0a8b6a9afa686c0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 17:12:41 2024 +0000
+
+    Fix: changed icon imgs in 404 and thank you pages
+
+[33mcommit 7c45e8bb30ec76c3a89c5948feb4abb9fa1be7c1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 17:07:09 2024 +0000
+
+    fix: removed unused event imgs
+
+[33mcommit 9fcc7de7ff14f44e05b2e0d566a43362e7823340[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 17:04:44 2024 +0000
+
+    fix: renamed all events imgs to remove spaces
+
+[33mcommit 1e226d211fda133dea01d2d95d0c438bcbe6ef5f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 17:00:13 2024 +0000
+
+    fix: renamed footer img to remove space
+
+[33mcommit 3cc318f6ace4de7dc6fd6e2ac463e4349762945f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:58:19 2024 +0000
+
+    fix: renamed logo img to remove space
+
+[33mcommit 8888deca51eef44e79cc631c0eb7518927e99050[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:56:43 2024 +0000
+
+    fix: renamed img for 404 and thank you pages to remove spaces
+
+[33mcommit 7e1b9b9693d17b86c38c5d20d76b0a010d3c6392[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:54:18 2024 +0000
+
+    fix: added alt tage for copyright img
+
+[33mcommit 923bc3c7fe00ec2b78b9972c5c521069b4c6cd71[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:53:24 2024 +0000
+
+    chore: corrected speeling mistake for id last name
+
+[33mcommit f4b57d149cd013b90fb0c1a98cfd3d0d9cb57982[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:52:56 2024 +0000
+
+    fix: removed alt tags in attributes
+
+[33mcommit 0c34fa478a781439b781bb02f464c5226bbcf5a1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:48:48 2024 +0000
+
+    fix: removed stray div tag
+
+[33mcommit 937cdde7f78050a4899735636649f92d71b04d56[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:47:58 2024 +0000
+
+    fix: renamed carousel images to remove spaces
+
+[33mcommit 2b6b24422fc9c782450b170a9094829b5311da1b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 8 16:41:17 2024 +0000
+
+    fix: css errors after validation
+
+[33mcommit 863db06639c8656a726e1cf18a3047713105c65e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:28:53 2024 +0000
+
+    feat: styled 404 page
+
+[33mcommit a50dab62e2f52a24bb7fdf0c11006ab6b1859cd3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:27:53 2024 +0000
+
+    feat: added 404 page with img and text
+
+[33mcommit 7449f6bd5398588e4e02ca0d6aa290589c50839b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:24:11 2024 +0000
+
+    feat: added comments to each section and tidied syntac
+
+[33mcommit 19d183645c63cb470ec7e103d839029c1e40c955[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:13:13 2024 +0000
+
+    feat: added img to thank you page
+
+[33mcommit eec47e63fddc1792e1ced9673e3b545c611dd58a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:09:09 2024 +0000
+
+    chore: spelling of copyright
+
+[33mcommit 4a4527c7a13c4ed8e4a2627d8f70938d76d7f3d0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 15:08:49 2024 +0000
+
+    feat: changed copyright text
+
+[33mcommit 2c7f60e526b340a07e034644719e3afd24d45eb9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 14:59:16 2024 +0000
+
+    fix: adjusted footer position with cr text outside of the row
+
+[33mcommit d685f4fd8e8de972aff4004ea0002c051a4f7df3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Dec 7 14:15:00 2024 +0000
+
+    fix: replaced dead reynolds jpg with compressed png
+
+[33mcommit 1c5d37780be9b1c3bc05ed98f10dd3180be8c4e0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 09:21:17 2024 +0000
+
+    feat: added axdeisns copy right
+
+[33mcommit 58d251d3b7dcab0b5c12241a568fb5c006f3b4c0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 09:16:03 2024 +0000
+
+    feat: add more text to the thank you message
+
+[33mcommit bffa4492de614e0ad1e1746ea067e35b3548b21e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 09:07:53 2024 +0000
+
+    feat: add aria-current text to btns
+
+[33mcommit 78d0eda1399dffb070331b8ce3cdcfb4fd5e5ba0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 09:04:46 2024 +0000
+
+    feat: styled thank you item
+
+[33mcommit 669303a437f64c315c0437f7e425b5ca6efbe158[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 09:01:30 2024 +0000
+
+    feat: add aria-current to send atribute in contact form
+
+[33mcommit 581880ae964bae30af610e3dcdc42f62630460a2[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 08:59:08 2024 +0000
+
+    feat: add thank you message for submit in contact form
+
+[33mcommit f93291bd6d228db81c4e1f32f12ba70f8da30c82[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 08:46:17 2024 +0000
+
+    chore: correct spelling of label
+
+[33mcommit f903c55580be5bc03a0fb7f7334b984333056d69[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 07:08:02 2024 +0000
+
+    feat: added alt tags to all images and cta btns
+
+[33mcommit 9b2b2a53d81f8e6f0dbc5b93de49730fe92b48f5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 06:57:14 2024 +0000
+
+    fix: changed 1st img in carousel to active
+
+[33mcommit 2a89c5b924a2e508545ff8299d91ddccab502ab5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 06:47:59 2024 +0000
+
+    feat: add third rox off img to carousel
+
+[33mcommit 2677a5455fbfc42f17be2a219ecea9d69144c1cb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 06:46:54 2024 +0000
+
+    feat: changed carousel imgs to compressed versions with new file names
+
+[33mcommit 74350b36521f93ea30fdbd69a5dba51e0f74cae4[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Dec 6 06:33:33 2024 +0000
+
+    fix: change logo img width to auto
+
+[33mcommit 67dad9dce454bbcbe2ccc1c8793109231294c822[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:50:13 2024 +0000
+
+    fix: added surnames to owners in about
+
+[33mcommit e659a1df3a1e44273fe933ca16d8e3af4187552a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:47:38 2024 +0000
+
+    feat: changed all events items to unorder and unstyled lists
+
+[33mcommit 4a76d6fcfd00f2b055707569e335752f8c797c67[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:39:22 2024 +0000
+
+    feat: changed card p to ul for first card
+
+[33mcommit aa6fe886f82171df9f64f54c5e9d2e6247c455fc[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:30:08 2024 +0000
+
+    feat: changed cr-img size in css
+
+[33mcommit f06e2d9760b502bcfbe7b36a41f30777ce62a8ab[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:23:53 2024 +0000
+
+    feat: added copyright img to footer
+
+[33mcommit b92f43be3efe85edc9f7011b9400d96c1ee4e3b4[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:14:31 2024 +0000
+
+    feat: add copyright img to files
+
+[33mcommit 670a35d6d7ba4077b93bf10788db30ed6b108dcf[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 22:03:27 2024 +0000
+
+    feat: add second row of content for event section
+
+[33mcommit efaca609eacfa7a13cf7a2be0c6a1b0501a9ad92[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 21:45:47 2024 +0000
+
+    feat: added 1st row of cards for events with content
+
+[33mcommit 5390606b3cb830813698e85831041adf9591471b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 21:23:05 2024 +0000
+
+    feat: styled first card and added content
+
+[33mcommit 61e8627f9d8f10d32b5d6f6cb4e09e8f08959ad9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 21:17:02 2024 +0000
+
+    Feat: added first card to events
+
+[33mcommit cb98b8be9986cffbe70ded8fd5571912c7fc17de[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 19:00:19 2024 +0000
+
+    chore: removed events file
+
+[33mcommit 9075e821d584530811e42df73ca6a9e0dbecae76[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 18:59:13 2024 +0000
+
+    feat: basic construction for events section
+
+[33mcommit 7d42ff8ac4280e2c36e9595e5209019682cbc704[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 18:54:34 2024 +0000
+
+    chore: added addresses to contact section
+
+[33mcommit 99f82d4da7aba22325f5ccd69c4cc740d1825e09[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 18:49:31 2024 +0000
+
+    feat: added RoxOff flyer to carousel
+
+[33mcommit 374ef034853da10390b2b13c8f8f1131fef90974[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:55:01 2024 +0000
+
+    chore: removed unnecessary capitalization for caption h3
+
+[33mcommit 870ad85efc435379d94aff94e2fc9981fd025378[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:49:09 2024 +0000
+
+    fix: about text col width
+
+[33mcommit 57b2fc144cf361924d7aad7f981b7e4a42aa4fcb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:28:30 2024 +0000
+
+    feat: add auto margins for contact btns 2
+
+[33mcommit b3355feb291efae0aa568bbdbb1528bd13c364cb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:18:26 2024 +0000
+
+    fix: space between contact buttons
+
+[33mcommit 4a68a8626c2d9107f1063b8e9ce1b8aaa3051068[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:16:28 2024 +0000
+
+    fix: resized footer image and logo for responsiveness
+
+[33mcommit 25481b7bbe1214f0a2f346403ef8395ce06c2076[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:11:15 2024 +0000
+
+    fix: removed footer-brand class from css
+
+[33mcommit 30492929240e8d2aca5450a473624eeb0c70d72e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:05:45 2024 +0000
+
+    feat: added margin top to footer
+
+[33mcommit 6912ddf422908a18d7d945341f62a6703dd127f9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 16:03:08 2024 +0000
+
+    feat: moved fb and wgt btns to contact section
+
+[33mcommit db58ac1bb1cb8b1dd3b494fba7d1eb5ed3ca753b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 15:40:34 2024 +0000
+
+    fix: aligned footer items center
+
+[33mcommit 9597e77877c5f5141b73b166f0a07161623b6e11[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 14:37:56 2024 +0000
+
+    fix: col breakpoints in contact
+
+[33mcommit 5ef81408cff03b4b3dc155613f97783188c48e91[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 14:35:12 2024 +0000
+
+    fix: swapped form and div for contact section
+
+[33mcommit b86ec4422d97448a1357a71149caa53e60bb4413[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 13:50:56 2024 +0000
+
+    feat: add wegottickets img
+
+[33mcommit 87af17e43545805cd2cf54fecf44ce4da215b992[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 13:38:27 2024 +0000
+
+    fix: removed margin-left from footer img
+
+[33mcommit 7bec151656a5a44ea118e390472cd7d41644cfff[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 13:03:53 2024 +0000
+
+    fix: nabar height and width responsively
+
+[33mcommit 009e7a9c1dac688b0ea631235dbdb67603127272[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 12:32:52 2024 +0000
+
+    fix: about img padding
+
+[33mcommit cc707117a80dc8f61075aa3f89a61db52bc08729[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 12:16:07 2024 +0000
+
+    feat: added styling to footer cta-btns
+
+[33mcommit 0e7ade6c42d901f2b070939ac0dfefb6380cca0e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 11:35:17 2024 +0000
+
+    fix: carousel c-item style
+
+[33mcommit 65aa4aaf8ca6290a623863c0271d894f1772e9a8[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 11:02:09 2024 +0000
+
+    fix: changed logo from px to rem
+
+[33mcommit 0c3ae57be865d51324d66265471b59c7f8e63804[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 10:49:44 2024 +0000
+
+    fix: footer into bs grid
+
+[33mcommit 584fff23e746580bc567f7c56633c8fbd3fe1d64[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 10:36:35 2024 +0000
+
+    feat: added some styling to footer
+
+[33mcommit c5e997411eab2522e32a12ee6a4356c729bb8f37[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Dec 4 10:15:19 2024 +0000
+
+    feat: added footer
+
+[33mcommit 320a23465d67fab33dfef080ad366c2dfe85e187[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 09:06:56 2024 +0000
+
+    chore: removed gaps in css file
+
+[33mcommit af8c39cd140ce9c1fc0d425d3329be2a0a7bb2a6[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 09:04:19 2024 +0000
+
+    fix: a-item font-size for responsiveness
+
+[33mcommit 70b7e69678c0bfa3eef7f581d881106ffc1fa220[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 08:53:55 2024 +0000
+
+    feat: sped up carousel items
+
+[33mcommit 96cb8b313398353a8757d63a4a359d5f95950f36[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 08:51:01 2024 +0000
+
+    fix: corrected carousel syntax to remove bug
+
+[33mcommit 665cf2858ae4e64f37cc1d39475c19e549fb34de[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 08:47:13 2024 +0000
+
+    feat: changed title icon to green
+
+[33mcommit 3a78868a6d3079571da3662173087977fc08cacc[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 08:41:56 2024 +0000
+
+    feat: add title icon
+
+[33mcommit 41c7af6778eb208c75d1b8807450de516bc41560[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 06:57:13 2024 +0000
+
+    fix: changed c-caption font size for better responsiveness
+
+[33mcommit 7f2b375a3385b6c47d8a77d4fdf566694c20e2ed[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 06:42:41 2024 +0000
+
+    fix: a-item font size responsiveness
+
+[33mcommit 84b42c7aa37be534d267b4706e50fcf082b74b55[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 06:38:13 2024 +0000
+
+    fix: removed c-caption fixed position
+
+[33mcommit 3e5f60469aa2b694506fd5eaed6be528153b04c6[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 06:30:19 2024 +0000
+
+    fix responsiveness of captions
+
+[33mcommit ec54e48fcdc3365d4c8efdda18c0c882bfeb2f7e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Dec 3 05:58:35 2024 +0000
+
+    fix: corrected media query breakpoints
+
+[33mcommit 9486fb488dd7560bc0d852f5fe809bd212e69750[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:30:36 2024 +0000
+
+    fix: navbar bug fixed (removed buttons)
+
+[33mcommit 3a49a3b6c20bec5b5db93f9be5e77036f1915245[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:27:47 2024 +0000
+
+    chore: spelling mistake
+
+[33mcommit 6dcc332ee6f0ca04da214359514f97463289e6a2[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:25:09 2024 +0000
+
+    fix: removed extra div
+
+[33mcommit 46b740699b4a36654a04701134bdf499aa59ca9e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:19:19 2024 +0000
+
+    chore: tidy up html
+
+[33mcommit 2da29437c0af1b942cb7355b63659e2c1f147c83[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:18:28 2024 +0000
+
+    chore: removed junk file
+
+[33mcommit 8fab3851d508e45a94b71e791948936a4b8d52ed[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 09:18:02 2024 +0000
+
+    fix: cta-button style
+
+[33mcommit 115add33931117a79560d08810f4eeba094e1b1e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 08:25:57 2024 +0000
+
+    fix: global font-size
+
+[33mcommit 1b91305bf6c3459c7f2f1f43884ea251e11b247e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 07:55:23 2024 +0000
+
+    chore: added spacing
+
+[33mcommit ded84a05c6906a7bb8af961daac27f07552306da[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Dec 2 07:52:56 2024 +0000
+
+    fix: simplified navbar
+
+[33mcommit a1f1ff2bb12deca565b15be36911f48d6fc9403d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 21:35:24 2024 +0000
+
+    chore: tidy up syntax
+
+[33mcommit 5ffd336c2ed89d95976b2c186bf856c8fce4b7a9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 21:32:02 2024 +0000
+
+    chore: summarised paragraph text
+
+[33mcommit 0ba400e6d291247972c2837f121c91ad18f4d36f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 20:15:47 2024 +0000
+
+    feat: add welcome paragraph
+
+[33mcommit 23973ed87b1bb3ab00a76d30994aaaf21f6992f9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 20:05:39 2024 +0000
+
+    feat: rounded about img
+
+[33mcommit c83e31f960ff555ebef344ca16bad7dff329b92d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 19:14:41 2024 +0000
+
+    fix: changed global margin left
+
+[33mcommit 7815e2c35adb2d8a6c464cc425bddda6c7d78a2d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 19:08:33 2024 +0000
+
+    chore: add a full stop
+
+[33mcommit 928668be8534e30d405ee0b642f1d84eac045204[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 19:03:04 2024 +0000
+
+    fix: general tidy up and changed top header to welcome
+
+[33mcommit 543d425dade347f3f4e346c8ced0b21d732cef4b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:54:26 2024 +0000
+
+    fix: carousel offset
+
+[33mcommit 3c886b9aca9c705fb6fc5a8ba9596fd81bd5f062[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:53:10 2024 +0000
+
+    fix: removed home title
+
+[33mcommit 34b31f57f83f4ed4e0a55418733b0c98196da3ad[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:49:11 2024 +0000
+
+    feat: added global margin-left
+
+[33mcommit 681cbe2a5cb6da251c2719a7ef4693d767ed9096[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:39:19 2024 +0000
+
+    chore: corrected grammatical errors
+
+[33mcommit c9f629c17b44b32d6aa1d35515ac228458c17c6b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:26:42 2024 +0000
+
+    fix: removed about and contact links in navbar
+
+[33mcommit 1ff6de3507e147e4b5679dfd51aabcabd4a275f4[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:21:49 2024 +0000
+
+    feat: removed contact page
+
+[33mcommit 7dbc5b9fe905b2185421a9fd8abb9398a355ef52[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 18:01:48 2024 +0000
+
+    Feat: added contact page to bottom of index.html
+
+[33mcommit 1e235db2f9266a2f7978ffe02a9a82bb14a35dba[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 17:51:14 2024 +0000
+
+    feat: moved about section to the bottom of the home page
+
+[33mcommit f8648fa04d031b3fbd5a607005a83248c5dcd99f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 17:23:46 2024 +0000
+
+    fix: copied new version of navbar across all pages
+
+[33mcommit 14a4b592d83decb7369df199239cd618925504a0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 17:21:02 2024 +0000
+
+    fix: navbar bug - syntax error
+
+[33mcommit 62ca23c11647d6e406ad4ba9a6945f4401c2f4e5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 17:08:42 2024 +0000
+
+    Feat: added para to contact page.
+
+[33mcommit b02c191a06b7df66b5c6a5205a45f9d22d380030[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 16:08:38 2024 +0000
+
+    fix: tried to fix nav-items by changing active status
+
+[33mcommit fe936fec3255f8252a8131f645230a085b1d6ecc[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 15:43:21 2024 +0000
+
+    feat: created contact form
+
+[33mcommit 34e85e5a7039afaa2a3c15a8af171044c62b962f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 14:52:55 2024 +0000
+
+    Feat: added fome to contact page and set min-vh to home, about and contact pages
+
+[33mcommit f46899661cc76b25b5ee1c0beae6dc790be749eb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 14:27:11 2024 +0000
+
+    feat: added a-tem padding to media queries
+
+[33mcommit b54bf0e3559c40a14408e625d504f6fb2f43ce98[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 13:22:52 2024 +0000
+
+    fix: carousel bug
+
+[33mcommit bca9a8e633dd9ad6f50b8dc344fd692bca3e836a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 13:19:23 2024 +0000
+
+    fix: removed carousel to find bug
+
+[33mcommit 6f7ecbae0ab0d85206cb271f849fef171b1b80ed[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 13:11:51 2024 +0000
+
+    fix: carousel img sizes
+
+[33mcommit 0e306454cabc92624a09e3ccc6f6d6cb582819e3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:59:46 2024 +0000
+
+    chore: removed blank line from index.html
+
+[33mcommit f6ec1ef1d0fd0f43d5816d3dd73c216265f3a588[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:58:53 2024 +0000
+
+    fix: removed indicators from carousel
+
+[33mcommit 109aadc0c96aafef4bfe6776d68b0322fa4cc286[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:35:48 2024 +0000
+
+    fix: repositioned button outside of carousel
+
+[33mcommit 26eeeee1caae4db2409b0e4e61920aed4328a6b5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:33:34 2024 +0000
+
+    fix: carousel syntax error
+
+[33mcommit b2e8731085dcd4cd8bf713d9acd48e4b97dfa92e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:24:51 2024 +0000
+
+    fix: repositioned cta-btn
+
+[33mcommit 2b8d0f1c309e8f504bd2f9eba0b70bcc97defc7c[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:19:38 2024 +0000
+
+    fix: a-item font size
+
+[33mcommit c0f3e3000e3607442a73e4ec136c470db819ecd3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:18:25 2024 +0000
+
+    feat: changed about img to png file
+
+[33mcommit ccc3733fd39cebf9263aaaa6eceaf78c8a7c4553[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:07:47 2024 +0000
+
+    fix: font-size of about seperater
+
+[33mcommit 3fa358ad79b98815380aaf536b966b6329152130[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Dec 1 12:04:15 2024 +0000
+
+    feat: added btn to all carousel-items
+
+[33mcommit 6442462acf4f3de1440554e63edeeacd6a2490c2[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 22:27:29 2024 +0000
+
+    feat: added cta button to Home Page
+
+[33mcommit 22ef3bb077464a1cdb9acec4d1139ef8ee8eb311[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 21:30:18 2024 +0000
+
+    chore: tidied up font sizes across all pages
+
+[33mcommit 59f5b235a402d68ac92c55784e996934b94b1f83[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 20:16:04 2024 +0000
+
+    fix: re-jigged media query styles for smooth reposniveness
+
+[33mcommit 9f613684b58000151b7e3b345eada946fd1c6de0[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 17:56:33 2024 +0000
+
+    feat: added titles to pages
+
+[33mcommit 7fcb9df00093768a40b9f71acf6125bc509d7f25[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 17:51:18 2024 +0000
+
+    feat: home page sorted
+
+[33mcommit 2ac1d8b5e6225b4003bb95d15c0725343c705e8f[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 16:30:24 2024 +0000
+
+    feat: added styles to sm mobile devices media queries
+
+[33mcommit b3f5779df5e5cc0790e2fd50b9e865632f5e230e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 16:20:53 2024 +0000
+
+    faet: added smaller mobile devices media query
+
+[33mcommit 7f12ee95f0295a3cad7687fa6e385ad23068d453[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 15:41:35 2024 +0000
+
+    chore: tidy syntax
+
+[33mcommit da20baf0e780f764220638df8432f7a6b8a5bacb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 15:34:07 2024 +0000
+
+    fix: carousel font size
+
+[33mcommit 87bae3e2dda92b24f3ddbd50a641a77fb56909cb[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 15:01:37 2024 +0000
+
+    feat: add styling to carousel captions
+
+[33mcommit 25ac176030f324cd5f720d48053b5cd08347b99e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sat Nov 30 14:44:52 2024 +0000
+
+    feat: added more styling to navbar's responsiveness
+
+[33mcommit ac2b79589ae8aad69929b8770d5bea899cdf2cf8[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Nov 29 09:26:43 2024 +0000
+
+    feat: added logo media query sizing
+
+[33mcommit fe0326fba3a0bd6fcf756901a9c08be0b3257917[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Nov 29 09:17:04 2024 +0000
+
+    fix: adjusted and removed styling
+
+[33mcommit 170aa5de3ab17bd60c3dc2bfe91653a7038322c2[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Nov 29 08:23:55 2024 +0000
+
+    feat: added media queries structure to css file
+
+[33mcommit c3befd20de9ab95616df113ca1746fdbb0694def[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 28 09:24:37 2024 +0000
+
+    Fix: logo and responsiveness
+
+[33mcommit 1f716eca489799dff5b4fdd35bd06cbd2b7dd5b5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 28 04:24:34 2024 +0000
+
+    feat: modified events navbar
+
+[33mcommit 968b42e961f94297839764906781c0692a46e17e[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 28 04:06:53 2024 +0000
+
+    feat:add navbar to events page
+
+[33mcommit 9e25441552bee429f9f9fa7b44510d65e259683d[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 18:14:52 2024 +0000
+
+    fix: changed about paragraph content
+
+[33mcommit afda2430cbdf99d09f4eee7284b26430e96cf1c5[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 18:02:26 2024 +0000
+
+    fix: removed attempts to resize caption
+
+[33mcommit ab6f29db2471cb4b71806b56270852ab7120b0e6[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 17:37:40 2024 +0000
+
+    fix: made active link for home page
+
+[33mcommit e7d4beebfb4ed7c7b7736239be82189a49501f96[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 16:59:25 2024 +0000
+
+    fix: general syntax errors
+
+[33mcommit 77d62e3530f6f294bd0fc4b42ad6aa11dae4cfdd[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 16:19:29 2024 +0000
+
+    fix: paragraph formats in about page
+
+[33mcommit bf0470e644f2fea84be8ea363ad7ed957c20880a[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 15:34:59 2024 +0000
+
+    feat: added content to about page
+
+[33mcommit 2c6a973aab6d6635aacbb151bfcc01cf118772f9[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 13:47:12 2024 +0000
+
+    fix: text position
+
+[33mcommit c9a9a86e6f838d3163034992aa491b419c6f887b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 13:44:35 2024 +0000
+
+    feat: aligned text end for md screens
+
+[33mcommit 4492c6e7aa552ccd1dcf3bfb80e23606d0515d5c[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 13:35:43 2024 +0000
+
+    feat: added caption for photo
+
+[33mcommit a286fa6057718916375012153ec07a271dcae22b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 13:05:20 2024 +0000
+
+    fix: responsiveness of about page
+
+[33mcommit cda52ca970c37dbd3d8f934a64b6959a9655ff34[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 12:50:49 2024 +0000
+
+    fix: fixed styling issues and tidyied up code
+
+[33mcommit e66892acaefcb899aa37da54bcf57605cf1b5d97[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 11:34:26 2024 +0000
+
+    feat: added some para text to about
+
+[33mcommit 2cbd30944af65f48a003e47a34f2eee3c6bbb041[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 11:17:13 2024 +0000
+
+    feat: added events and contact pages
+
+[33mcommit 03d9ace1d22604a79d261da66ce7e74317370241[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 11:16:01 2024 +0000
+
+    faet: added events and contact pages
+
+[33mcommit 127666253aa4f9fe992e29acba85fbce425f26b1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 11:14:17 2024 +0000
+
+    feat: made about nav item active
+
+[33mcommit e4b6a9e0e9cf498b5a55ddd37f0974f781fcb005[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 11:12:27 2024 +0000
+
+    added navbar and image to about page
+
+[33mcommit 67f6eff0063631c409259014c903bb11892af7ac[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Wed Nov 27 10:54:25 2024 +0000
+
+    feat: added about page
+
+[33mcommit e508a7791400dabf9c3510149d39ffe32fc6904b[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Nov 25 13:43:20 2024 +0000
+
+    fix: carousel-caption
+
+[33mcommit fc8026d14571a89eff687383386c75e70eb11baf[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Nov 25 08:50:05 2024 +0000
+
+    Feat: added new carousel-caption
+
+[33mcommit c3785048b0f98a941b00c1c5fa1dbb41b972d778[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Nov 25 07:50:59 2024 +0000
+
+    feat: changed nav-link text height
+
+[33mcommit 6be7f341731103f7c63fc2a466a45538b278f2fd[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Mon Nov 25 07:45:26 2024 +0000
+
+    feat: changed carousel images
+
+[33mcommit da878620998693b8e549a38d4619fef1e1752633[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Nov 24 22:47:15 2024 +0000
+
+    Fix: removed c-caption & moved c-indicators below c-images
+
+[33mcommit f1d98fefd9846b4a7ba33165f93a96895f1369ca[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Nov 24 22:24:22 2024 +0000
+
+    feat: make carousel responsive & add carousel-caption
+
+[33mcommit c56a858b137ac654d1b4d157fd0dd0cdc21c7912[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 16:40:01 2024 +0000
+
+    fix: carousel image responsiveness
+
+[33mcommit 72a9782b67fa6aa9621bf9bbc6ba15f251d41870[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 14:02:53 2024 +0000
+
+    chore: amended style for carousel
+
+[33mcommit cd501fa40498b818cccc54e0e4b360c66f001934[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 08:48:22 2024 +0000
+
+    fix: replaced some styling to carousel items
+
+[33mcommit 72e6de7f7b1e91e9bb34f6dfaaffa9ce3a87c840[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 07:55:36 2024 +0000
+
+    fix: testing sync
+
+[33mcommit 3fe915f616fa2e423dc0ea0478b71a5b94c73e89[m
+Merge: 6aa6362 b70ac78
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 07:47:39 2024 +0000
+
+    Merge branch 'main' of https://github.com/AxdeKlerk/Searchlight-Promotions
+
+[33mcommit 6aa636234829d39d0d3521e1eaf31b2edbc6c002[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Thu Nov 21 07:11:45 2024 +0000
+
+    fix: copied all files over to codespace in the hope to fix bug
+
+[33mcommit b70ac78b58336dfdefe7f956d20cb3cdc314aa56[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Tue Nov 19 06:38:32 2024 +0000
+
+    Update README.md
+    
+    Changed logo img
+
+[33mcommit 171b4726d13bc5f01101f9c1885d20e899f23227[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Nov 17 12:29:37 2024 +0000
+
+    Update README.md
+    
+    Removed unnecessary text from template
+
+[33mcommit 0a31885b9b1ee67b2ecbd7e814c24f99a6348ad7[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Sun Nov 17 12:27:21 2024 +0000
+
+    Create README.md
+    
+    added basic introduction including the aim, purpose and goals of the website.
+
+[33mcommit 2e757ddf8822fbee75ecbbbea8fdcae131d27da1[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Nov 15 18:34:58 2024 +0000
+
+    fix: removed carousel buttons
+
+[33mcommit 84e46b9c149e197f3b4427f94cfcf900745a29c3[m
+Author: Ax <axdeklerk@gmail.com>
+Date:   Fri Nov 15 18:28:50 2024 +0000
+
+    feat: added imgs and styling to carousel
+
+[33mcommit 8a0099644571a232f1b7d25d1d51c85dd8d658f3[m
+Author: Ax de <axdeklerk@gmail.com>
+Date:   Fri Nov 15 17:38:49 2024 +0000
+
+    feat: added BS carousel
+
+[33mcommit 9aaa47b145bf71747dd36dda6acc3612a901cfd6[m
+Author: Ax de <axdeklerk@gmail.com>
+Date:   Fri Nov 15 15:56:04 2024 +0000
+
+    feat: added images and logo
+
+[33mcommit 3f5403f07235c061a5d6ebdb769947c6efd0bdcc[m
+Author: Ax de <axdeklerk@gmail.com>
+Date:   Fri Nov 15 12:55:56 2024 +0000
+
+    feat: added BS boiler plate, changed title and linked css file
+
+[33mcommit 2941b02798df88262dd8d6e9d59d7ebc57a37fa1[m
+Author: Ax de <axdeklerk@gmail.com>
+Date:   Fri Nov 15 12:50:26 2024 +0000
+
+    feat: added html boiler plate and stylesheet
