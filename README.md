@@ -240,9 +240,9 @@ Deployment was done early following lesson in a Code Institute Software Developm
 
 As I went along I tested the website on my phone and laptop using both Google and Brave (a Google based browser), as well as testing it in MS Edge on my work laptop. I tested the site for responsiveness continually in Google and Brave as I went along. I only tested it in Ms Edge once I had completed it. Other than my own testing two separate methods were also used for testing purposes: informal and formal testing.
 
- 1. Informal manual (live) testing was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
+ 1. **Informal manual (live) testing** was done through friends and family who use different OS and devices, for feedback. In particular my girlfriend tested the site on Firefox on her laptop and on her mobile (which dates back to a pre 2018 model). My parents tested the site on their Google tablet and Amazon Kindle. And 3 close friends tested the site on the different Apple devices (2 phones and 1 laptop). This was incredibly useful as it gave me a full understanding of each user experience. As this core group is very close to me their feedback was honest and to the point which was both frustrating and extremely valuable.
 
- 2. Formal (automated) testing of the website was validated using the W3C Validation tools. The first validation of my html code resulted in 17 errors as seen here:
+ 2. **Formal (automated) testing** of the website was validated using the W3C Validation tools. The first validation of my html code resulted in 17 errors as seen here:
 
 ![image of first html validation report with errors](doc/images/first-html-validation-index.png)
 
@@ -270,6 +270,14 @@ Testing accessibility using Lighthouse at first delivered the following report:
 After further compressing the jpg img for the first carousel img corrected this and returned a report with a performance rating of 98, accessibility of 100, best practice of 93 and SEO of 91:
 
 ![final lighthouse report](doc/images/second-lh-results-desktop.png)
+
+3. **Resubmission testing**
+  
+After completing all the necessary changes that we outlined in my assessment report I am happy to report that both my HTML and CSS validation reports reported no errors. Below are two snips for each:
+
+![HTML Resubmission Validation Report](assets/images/Resubmission-HTML-Validation.png)
+
+![CSS Resubmission Validation Report](assets/images/Resubmission-CSS-Validation.png)
 
 ## 9. Deployment
 
